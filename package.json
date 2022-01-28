@@ -1,0 +1,34 @@
+{
+  "name": "go-fullstack-backend",
+  "version": "1.0.0",
+  "description": "Learning Fullstack project (NodeJS Express MongoDb)",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxx6262/go-fullstack-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "fullstack",
+    "learning",
+    "course",
+    "javascript",
+    "nosql",
+    "mongodb",
+    "openclassrooms"
+  ],
+  "author": "M.LECOUSTRE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxx6262/go-fullstack-backend/issues"
+  },
+  "homepage": "https://github.com/maxx6262/go-fullstack-backend#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
